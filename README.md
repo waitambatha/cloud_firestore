@@ -25,8 +25,8 @@ Each user profile includes the following information:
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/django-user-profile.git
-cd django-user-profile
+git clone https://github.com/waitambatha/cloud_firestore
+cd cloud_firestore
 ```
 
 ### 2️⃣ **Set up a Virtual Environment**
@@ -118,9 +118,6 @@ You may want to create a `.env` file to store sensitive information like databas
 
 ---
 
-## 🚀 **How to Deploy**
-1. Use **Docker** or **Heroku** to deploy the application.  
-2. Make sure to set **environment variables** for sensitive information.  
 
 ---
 
